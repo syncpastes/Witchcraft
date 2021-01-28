@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://pbs.twimg.com/profile_images/1233868942017359872/y5xXEV3D_400x400.jpg" alt="Logo" width="80" height="80">
+    <img src="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltac653b214fd6a770/5eb1c53adc3320014f6469b8/09_RV_Icon_Red.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Witchcraft</h3>
